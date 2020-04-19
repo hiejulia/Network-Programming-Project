@@ -16,3 +16,7 @@ if __name__ == "__main__":
     print("router interface count: " + str(r1.interfaces))
     r1.print_hostname()
 
+
+
+
+

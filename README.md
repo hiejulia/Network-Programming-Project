@@ -16,6 +16,7 @@
 
 #### Teck stack 
 - Python 
+    - netmiko 
 - C/C++ 
 - Java 
 - Network libs 
@@ -30,3 +31,25 @@
 - Vault for encrypt Ansible playbook and variables 
 
 - Other virtualized software 
+
+- Netmiko documenation:
+http://netmiko.readthedocs.io/en/stable/index.html
+
+- Netmiko GitHub repository:
+https://github.com/ktbyers/netmiko
+
+- Netmiko Blog Post:
+https://pynet.twb-tech.com/blog/automation/netmiko.html
+
+- Netmiko Installation
+sudo apt-get install -y git python-pip
+git clone https://github.com/ktbyers/netmiko.git
+cd netmiko/
+pip install -r requirements.txt
+python setup.py install
+
+- Pexpect and Parmiko Examples
+https://github.com/PacktPublishing/Mastering-Python-Networking/tree/master/Chapter02
+
+- Python **kwargs
+https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3
