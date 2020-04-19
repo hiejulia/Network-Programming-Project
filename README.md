@@ -78,3 +78,13 @@ https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-p
 
 
 #### Resource 
+- https://learningnetworkstore.cisco.com/
+
+
+
+
+
+#### TODO 
+- Buy & install , set up Cisco Virtual Internet Routing Lab Personal Edition VIRL PE 20 nodes  (200 $)
+
+
